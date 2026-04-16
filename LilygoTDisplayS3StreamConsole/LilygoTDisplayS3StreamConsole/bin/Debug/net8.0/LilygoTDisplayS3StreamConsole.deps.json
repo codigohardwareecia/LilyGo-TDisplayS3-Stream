@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LilygoTDisplayS3StreamConsole/1.0.0": {
+        "dependencies": {
+          "System.Drawing.Common": "10.0.6"
+        },
+        "runtime": {
+          "LilygoTDisplayS3StreamConsole.dll": {}
+        }
+      },
+      "Microsoft.Win32.SystemEvents/10.0.6": {
+        "runtime": {
+          "lib/net8.0/Microsoft.Win32.SystemEvents.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.626.17701"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net8.0/Microsoft.Win32.SystemEvents.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.626.17701"
+          }
+        }
+      },
+      "System.Drawing.Common/10.0.6": {
+        "dependencies": {
+          "Microsoft.Win32.SystemEvents": "10.0.6"
+        },
+        "runtime": {
+          "lib/net8.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.626.17701"
+          },
+          "lib/net8.0/System.Private.Windows.Core.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.626.17701"
+          },
+          "lib/net8.0/System.Private.Windows.GdiPlus.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.626.17701"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LilygoTDisplayS3StreamConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Win32.SystemEvents/10.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+O34uwacm8jHOSsasFV8U9+kSiDPqk/v8umwYl6BIrp/fUaeqRdF/aJcIZvNZ9RhNw+TKlL8oO1HsSEE4Ej/ww==",
+      "path": "microsoft.win32.systemevents/10.0.6",
+      "hashPath": "microsoft.win32.systemevents.10.0.6.nupkg.sha512"
+    },
+    "System.Drawing.Common/10.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AUKnAjTnSB4XDjIGWrGDXm5amaMFgaEb/GeOKFlQ26FDuFtgLKY/nv06kTBwobAgHplhH/wWWAGPu0I0Mh+I/g==",
+      "path": "system.drawing.common/10.0.6",
+      "hashPath": "system.drawing.common.10.0.6.nupkg.sha512"
+    }
+  }
+}

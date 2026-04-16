@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\principal\\Downloads\\LilygoTDisplayS3StreamConsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B79A558A-6409-4091-B377-B6407BCDE936}|LilygoTDisplayS3StreamConsole\\LilygoTDisplayS3StreamConsole.csproj|c:\\users\\principal\\downloads\\lilygotdisplays3streamconsole\\lilygotdisplays3streamconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B79A558A-6409-4091-B377-B6407BCDE936}|LilygoTDisplayS3StreamConsole\\LilygoTDisplayS3StreamConsole.csproj|solutionrelative:lilygotdisplays3streamconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\principal\\Downloads\\LilygoTDisplayS3StreamConsole\\LilygoTDisplayS3StreamConsole\\Program.cs",
+              "RelativeDocumentMoniker": "LilygoTDisplayS3StreamConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\principal\\Downloads\\LilygoTDisplayS3StreamConsole\\LilygoTDisplayS3StreamConsole\\Program.cs",
+              "RelativeToolTip": "LilygoTDisplayS3StreamConsole\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T00:32:42.695Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

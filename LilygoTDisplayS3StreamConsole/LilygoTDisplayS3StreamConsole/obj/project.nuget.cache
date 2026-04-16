@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nGQdra7We0k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\principal\\Downloads\\LilygoTDisplayS3StreamConsole\\LilygoTDisplayS3StreamConsole\\LilygoTDisplayS3StreamConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\principal\\.nuget\\packages\\microsoft.win32.systemevents\\10.0.6\\microsoft.win32.systemevents.10.0.6.nupkg.sha512",
+    "C:\\Users\\principal\\.nuget\\packages\\system.drawing.common\\10.0.6\\system.drawing.common.10.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
